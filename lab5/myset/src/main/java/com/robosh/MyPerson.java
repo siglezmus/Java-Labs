@@ -20,6 +20,10 @@ public class MyPerson {
         return ("Name: " + name + " age: " + age);
     }
 
+    public void sayNo(){
+        System.out.println("No");
+    }
+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;

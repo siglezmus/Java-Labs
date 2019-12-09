@@ -9,3 +9,17 @@ git add . // all files in repo
 git add -p <file> // one file
 
 some stuff to test status
+
+track file changes:
+git blame gitAndMavenHints.txt
+
+show branches:
+git branch -av
+
+switch branch:
+git checkout <branch>
+
+creating a new branch:
+git branch <new-branch>
+
+some stuff for merge O.o

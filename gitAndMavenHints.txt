@@ -9,3 +9,21 @@ git add . // all files in repo
 git add -p <file> // one file
 
 some stuff to test status
+
+change branch
+git checkout <branch>
+
+create branch
+git create branch
+
+merge targeted branch into current
+git merge <branch>
+
+rebase current branch into targeted
+git rebase <branch>
+
+tool for solving merge conflicts
+git mergetool
+
+
+

@@ -1,0 +1,9 @@
+create git repo:
+git init
+
+check commit:
+git status
+
+add files to commit:
+git add . // all files in repo
+git add -p <file> // one file

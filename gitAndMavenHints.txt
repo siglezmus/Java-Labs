@@ -7,3 +7,5 @@ git status
 add files to commit:
 git add . // all files in repo
 git add -p <file> // one file
+
+some stuff to test status

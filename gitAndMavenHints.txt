@@ -25,5 +25,15 @@ git rebase <branch>
 tool for solving merge conflicts
 git mergetool
 
+checking existing remotes:
+git remote -v
 
+adding existing remote:
+git remote add <name>origin <URL>https://github.com/siglezmus/Java-Labs.git
+
+pushing to git:
+git push origin <branch>master
+
+pulling from git:
+git pull origin master
 
